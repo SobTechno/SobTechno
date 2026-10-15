@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Sobhan&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Web%20Developer%20%7C%20React%20Native&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,38&height=200&section=header&text=Sobhan&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%7C%20Web%20Developer%20%7C%20React%20Native&descAlignY=60&descSize=18" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=E11D2E&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Sobhan+%F0%9F%91%8B;I+build+fast+and+secure+backends;I+craft+modern+websites;I+ship+mobile+apps+with+React+Native" alt="Typing SVG" />
 
@@ -89,6 +89,6 @@ leaderboard, and a VIP plan with online payments.
 
 *Have a backend challenge, a website, or an app idea? Let's talk, I'd love to hear about it.* ☕
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,38&height=110&section=footer" width="100%" />
 
 </div>
